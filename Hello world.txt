@@ -1,4 +1,5 @@
+<<<<<<< HEAD
 print ("Hello World!")
 print ("!!!")
 print ("Hello everyone")
-prin ("Zero")
+print ("Zero")
