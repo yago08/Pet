@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-print ("Hello World!")
-print ("!!!")
-print ("Hello everyone")
-print ("Zero")
